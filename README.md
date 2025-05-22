@@ -11,10 +11,6 @@
 
 📫 Contact me: sabrinaobedgill@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/sabrina-obed-gill-116a61185/
-
-
-Based on your listed projects, here’s a breakdown of the **languages and tools** I have experience with:
-
 ---
 
 ### 💻 **Languages & Frameworks**
@@ -55,42 +51,6 @@ Based on your listed projects, here’s a breakdown of the **languages and tools
 ---
 
 
-## 🛠️ Projects
-
-### 🏦 BankBlazor
-
-A full-stack banking application built using Blazor WebAssembly and ASP.NET Core Web API. Features include customer management, account transactions, authentication, and role-based access control. Data is handled via Entity Framework and SQL Server.
-🔗 [GitHub Repo](link-to-your-repo)
-
----
-
-### 🔐 BcryptAuth.WebAPI
-
-A secure authentication system developed in ASP.NET Core using C#, Entity Framework Core, and SQL Server. Passwords are hashed with Bcrypt. API tested via Swagger and Postman. Supports JWT-based authentication, duplicate checks, and proper error handling.
-🔗 [GitHub Repo](link-to-your-repo)
-
----
-
-### 🏨 Hotel Management System
-
-A C# and .NET console application for managing bookings, customers, rooms, and invoices. Supports data validation, room availability search, and invoice generation. Demonstrates object-oriented design and SQL-based data storage.
-🔗 [GitHub Repo](link-to-your-repo)
-
----
-
-### 🅿️ Santorino Smart Parking System
-
-An interactive parking system simulation project built in C#. Features smart entry/exit handling, space tracking, and billing logic. Includes user roles and basic UI elements in Windows Forms.
-🔗 [GitHub Repo](link-to-your-repo)
-
----
-
-### 🕵️ Thief and Police Game
-
-A fun logic-based game in C# console where a thief tries to escape and the police attempts to catch them. Demonstrates 2D grid logic, loops, conditions, and basic AI pattern movement.
-🔗 [GitHub Repo](link-to-your-repo)
-
----
 
 
 
