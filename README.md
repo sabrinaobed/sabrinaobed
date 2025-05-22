@@ -10,6 +10,7 @@
 🌍 I want to build secure and smart IT solutions that make a difference  
 
 📫 Contact me: sabrinaobedgill@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/sabrina-obed-gill-116a61185/
 ---
 
